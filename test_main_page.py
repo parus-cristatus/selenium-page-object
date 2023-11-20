@@ -2,8 +2,8 @@ import pytest
 
 from helpers import extract_language_path_from_url
 from pages.basket_page import BasketPage
-from .pages.main_page import MainPage
-from .pages.login_page import LoginPage
+from pages.main_page import MainPage
+from pages.login_page import LoginPage
 
 
 class TestLoginFromMainPage:
