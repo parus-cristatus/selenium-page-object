@@ -1,0 +1,26 @@
+SUPPORTED_LANGUAGES = ['ar', 'ca', 'cs', 'da', 'de', 'en-gb', 'el', 'es', 'fi', 'fr', 'it', 'ko', 'nl', 'pl', 'pt',
+                       'pt-br', 'ro', 'ru', 'sk', 'uk', 'zh-hans']
+
+BASKET_IS_EMPTY_TEXT = {
+    "ar": "سلة التسوق فارغة",
+    "ca": "La seva cistella està buida.",
+    "cs": "Váš košík je prázdný.",
+    "da": "Din indkøbskurv er tom.",
+    "de": "Ihr Warenkorb ist leer.",
+    "en-gb": "Your basket is empty.",
+    "el": "Το καλάθι σας είναι άδειο.",
+    "es": "Tu carrito esta vacío.",
+    "fi": "Korisi on tyhjä",
+    "fr": "Votre panier est vide.",
+    "it": "Il tuo carrello è vuoto.",
+    "ko": "장바구니가 비었습니다.",
+    "nl": "Je winkelmand is leeg",
+    "pl": "Twój koszyk jest pusty.",
+    "pt": "O carrinho está vazio.",
+    "pt-br": "Sua cesta está vazia.",
+    "ro": "Cosul tau este gol.",
+    "ru": "Ваша корзина пуста",
+    "sk": "Váš košík je prázdny",
+    "uk": "Ваш кошик пустий.",
+    "zh-hans": "Your basket is empty.",
+}
